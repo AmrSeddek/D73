@@ -3,7 +3,7 @@
 
 int main()
 {
-    printf("D73 App1 Test_3");
+    printf("D73 App1 Test_2");
 }
 
 
